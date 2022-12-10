@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 文章精选
+title: article
 date: 2022-12-10 16:00 +0800
 last_modified_at: 2022-12-10 16:00 +0800
 tags: [Tech. Article]
-toc:  true
+lang: zh
 ---
 
 ## 技术好文
