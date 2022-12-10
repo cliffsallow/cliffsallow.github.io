@@ -1,5 +1,5 @@
 ---
-layout: page
-permalink: /article
+layout: archive-article
+permalink: /article/
 title: article
 ---
