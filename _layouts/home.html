@@ -4,7 +4,7 @@ layout: default
 
 {% include home-header.html %}
 
-<h3>网站导航</h3>
+<!-- <h3>网站导航</h3>
     <p>
         <ol>
             <li><a href="https://pdai.tech" target="_blank">Java 全栈知识体系</a></li>
@@ -27,9 +27,9 @@ layout: default
                 <a href="https://juejin.cn/post/6923863670132850701" target="_blank">从根上理解用户态与内核态</a>
             </li>
         </ol>
-    </p>
+    </p> -->
 
-<!-- <div class="posts">
+<div class="posts">
   {% for post in paginator.posts %}
   <section class="post-entry">
     <h2 class="post-title">
@@ -55,9 +55,9 @@ layout: default
   {%- if jekyll.environment == "production" and site.disqus -%}
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
   {%- endif -%}
-</div> -->
+</div>
 
-<!-- <div class="pagination">
+<div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
   {% else %}
@@ -68,4 +68,4 @@ layout: default
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div> -->
+</div>
