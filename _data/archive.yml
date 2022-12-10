@@ -1,6 +1,5 @@
-- type: dates
-  title: 精选文章
-  url: /article/
+- title: Home
+  url: /
 # - type: dates
 #   title: Dates
 #   url: /dates/
