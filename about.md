@@ -1,5 +1,5 @@
 ---
 layout: archive-about
-permlink: /about/
+permalink: /about/
 title: About
 ---
