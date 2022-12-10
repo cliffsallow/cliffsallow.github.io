@@ -2,10 +2,10 @@
 title: cliffswallow
 description: cliffswallow's blog
 url: https://cliffsallow.github.io
-avatar: /avatar.png
+avatar: /imgs/avatar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: /imgs/bg.jpg
 
 # Gems
 plugins:

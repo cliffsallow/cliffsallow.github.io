@@ -1,6 +1,6 @@
 ---
-layout: archive-article
+layout: page
 permalink: /article/
 title: 文章
-type: dates
+# type: dates
 ---
