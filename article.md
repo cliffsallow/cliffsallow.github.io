@@ -1,5 +1,5 @@
 ---
-layout: archive-article
+layout: index
 permalink: /article/
 title: Article
 ---
