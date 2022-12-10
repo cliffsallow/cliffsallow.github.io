@@ -1,5 +1,5 @@
 ---
-layout: page
-permlink: /about
-title: 关于
+layout: default
+permlink: /about/
+title: About
 ---

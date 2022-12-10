@@ -1,7 +1,9 @@
 - title: Home
   url: /
 - title: Article
-  url: /article
+  url: /article/
+- title: About
+  url: /about/
 # - type: dates
 #   title: Dates
 #   url: /dates/
