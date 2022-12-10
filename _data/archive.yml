@@ -1,4 +1,7 @@
 - type: dates
+  title: 精选文章
+  url: /article/
+- type: dates
   title: Dates
   url: /dates/
 #- type: categories
