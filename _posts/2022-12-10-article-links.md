@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 技术文章
+title: 文章链接
 date: 2022-12-10 16:00 +0800
-last_modified_at: 2022-12-10 16:00 +0800
+last_modified_at: 2022-12-15 22:00 +0800
 tags: [Tech, Article, OS]
 lang: zh
 ---
